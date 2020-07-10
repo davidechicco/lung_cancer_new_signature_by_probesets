@@ -1,0 +1,112 @@
+general delta for MCC:0.1
+
+
+bestprobesets
+
+
+
+ signature:sign01
+sign01 _predictionMCC_Heiskanen: 
+sign01 _predictionMCC_Kohno: P08471_at P01911_s_at P22168_at P18164_at  
+sign01 _predictionMCC_Kuner: P11013_x_at P10065_s_at P11838_x_at P17989_at P04511_at P02688_at  
+sign01 _predictionMCC_Kuo: P13770_at P14734_at P15066_at P09985_s_at P7152_at 
+sign01 _predictionMCC_Mitchell: P14734_at
+sign01 _predictionMCC_Philipsen: 
+sign01 _predictionMCC_Rotunno: 
+sign01 _predictionMCC_Rousseaux: P15066_at P12976_at P15604_x_at
+sign01 _predictionMCC_Spira: P17989_at
+sign01 _predictionMCC_Tsay: 
+sign01 _predictionMCC_Wachi: P17989_at
+sign01 _predictionMCC_Want: P10065_s_at P11838_x_at P14734_at P01856_s_at
+sign01 _predictionMCC_Xu: P22168_at P04511_at P7152_at 
+sign01 _predictionMCC_ZhangL: P22155_s_at P22168_at P04511_at P15066_at P01856_s_at P09985_s_at P7152_at  P13439_x_at P02688_at P12976_at P15604_x_at P18164_at  
+
+
+
+ signature:sign02
+sign02 _predictionMCC_Heiskanen: P17724_at
+sign02 _predictionMCC_Kohno: P05560_at P18164_at
+sign02 _predictionMCC_Kuner: P01481_s_at P03013_at P09720_s_at
+sign02 _predictionMCC_Kuo: P03013_at P07820_at P09962_at P15504_x_at P4206_at 
+sign02 _predictionMCC_Mitchell: P18380_at
+sign02 _predictionMCC_Philipsen: 
+sign02 _predictionMCC_Rotunno: 
+sign02 _predictionMCC_Rousseaux: P20389_at
+sign02 _predictionMCC_Spira: 
+sign02 _predictionMCC_Tsay: P00984_s_at P01798_s_at P05234_at P07820_at P14261_s_at P15063_x_at P15504_x_at P17724_at  
+sign02 _predictionMCC_Wachi: P00785_s_at P00984_s_at P01481_s_at P01798_s_at P06866_at P07820_at P14261_s_at P15063_x_at P18164_at P19410_at P4206_at 
+sign02 _predictionMCC_Want: P09962_at P14261_s_at P20389_at
+sign02 _predictionMCC_Xu: P01481_s_at P01798_s_at P03013_at P06807_s_at P06866_at P07820_at P09962_at P13228_at P15063_x_at P17724_at 
+sign02 _predictionMCC_ZhangL: P00785_s_at P01481_s_at P03013_at P09962_at P12702_s_at P14121_x_at
+
+
+
+ signature:sign03
+sign03 _predictionMCC_Heiskanen: 
+sign03 _predictionMCC_Kohno: P08082_x_at
+sign03 _predictionMCC_Kuner: P08082_x_at P17989_at  
+sign03 _predictionMCC_Kuo: P01481_s_at P01798_s_at P02418_at P09205_s_at P13439_x_at P15407_s_at
+sign03 _predictionMCC_Mitchell: P14734_at P19355_at
+sign03 _predictionMCC_Philipsen: 
+sign03 _predictionMCC_Rotunno: P11838_x_at P14734_at  
+sign03 _predictionMCC_Rousseaux: P12702_s_at P17989_at P19355_at P21668_s_at
+sign03 _predictionMCC_Spira: 
+sign03 _predictionMCC_Tsay: P01481_s_at P01729_s_at P01798_s_at P17989_at  
+sign03 _predictionMCC_Wachi: 
+sign03 _predictionMCC_Want: P02418_at P15845_x_at
+sign03 _predictionMCC_Xu: P01481_s_at P02418_at P17724_at P17989_at P19355_at  
+sign03 _predictionMCC_ZhangL: P08082_x_at P08892_s_at P12702_s_at P19235_s_at
+
+
+
+ signature:sign04
+sign04 _predictionMCC_Heiskanen: 
+sign04 _predictionMCC_Kohno: P01738_at P02627_s_at P09962_at  
+sign04 _predictionMCC_Kuner: P17933_s_at
+sign04 _predictionMCC_Kuo: P00097_s_at P01729_s_at P13243_at P16625_at  
+sign04 _predictionMCC_Mitchell: 
+sign04 _predictionMCC_Philipsen: 
+sign04 _predictionMCC_Rotunno: P01738_at P18741_at
+sign04 _predictionMCC_Rousseaux: P20389_at
+sign04 _predictionMCC_Spira: 
+sign04 _predictionMCC_Tsay: P01481_s_at P01738_at  
+sign04 _predictionMCC_Wachi: P00785_s_at P01481_s_at P07078_at P13243_at P14261_s_at P17989_at P18741_at P20389_at P22212_s_at
+sign04 _predictionMCC_Want: P09720_s_at P20389_at  
+sign04 _predictionMCC_Xu: P18741_at
+sign04 _predictionMCC_ZhangL: P01729_s_at P02627_s_at P17263_x_at
+
+
+
+ signature:sign05
+sign05 _predictionMCC_Heiskanen: 
+sign05 _predictionMCC_Kohno: P21610_s_at
+sign05 _predictionMCC_Kuner: P06472_s_at P18380_at  
+sign05 _predictionMCC_Kuo: P02085_at P02922_at P07730_x_at P08664_s_at P11741_x_at P13778_x_at P14730_s_at P18380_at P22086_s_at
+sign05 _predictionMCC_Mitchell: 
+sign05 _predictionMCC_Philipsen: 
+sign05 _predictionMCC_Rotunno: 
+sign05 _predictionMCC_Rousseaux: 
+sign05 _predictionMCC_Spira: 
+sign05 _predictionMCC_Tsay: P00785_s_at P04511_at P08892_s_at P12110_at P15066_at P18380_at P20389_at  
+sign05 _predictionMCC_Wachi: 
+sign05 _predictionMCC_Want: P02170_s_at P14261_s_at
+sign05 _predictionMCC_Xu: P00785_s_at P02085_at P02922_at P04511_at P05364_at P07730_x_at P10404_x_at P11741_x_at P12110_at P16735_x_at P18380_at P21610_s_at P22168_at  
+sign05 _predictionMCC_ZhangL: 
+
+
+
+ signature:sign06
+sign06 _predictionMCC_Heiskanen: 
+sign06 _predictionMCC_Kohno: P02286_s_at P13778_x_at P18164_at P19051_x_at
+sign06 _predictionMCC_Kuner: P10810_s_at
+sign06 _predictionMCC_Kuo: P02286_s_at P03013_at P13243_at P19051_x_at P19233_s_at
+sign06 _predictionMCC_Mitchell: P14182_at
+sign06 _predictionMCC_Philipsen: P02286_s_at
+sign06 _predictionMCC_Rotunno: 
+sign06 _predictionMCC_Rousseaux: P20389_at
+sign06 _predictionMCC_Spira: 
+sign06 _predictionMCC_Tsay: P04511_at
+sign06 _predictionMCC_Wachi: P00785_s_at P02286_s_at P03013_at P06385_s_at P17679_x_at P17715_x_at P19051_x_at P19233_s_at P20389_at  
+sign06 _predictionMCC_Want: P10705_s_at P18741_at P20389_at  
+sign06 _predictionMCC_Xu: P14182_at P18741_at P19233_s_at P20575_at  
+sign06 _predictionMCC_ZhangL: P00785_s_at P03013_at P10705_s_at P11838_x_at P13243_at   P13778_x_at P17715_x_at P18164_at P19051_x_at P19233_s_at

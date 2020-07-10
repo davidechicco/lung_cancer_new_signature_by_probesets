@@ -1,0 +1,125 @@
+general delta for MCC:0.1
+
+
+
+ signature:sign01
+@ sign01_predictionMCC_Heiskanen: worst probesets:  no probeset found
+@ sign01_predictionMCC_Kohno: worst probesets: [1] P15604_x_at
+@ sign01_predictionMCC_Kuner: worst probesets: [1] P08471_at;   P01911_s_at; P04999_s_at; P01856_s_at
+@ sign01_predictionMCC_Kuo: worst probesets: [1] P11013_x_at; P22155_s_at; P04511_at  
+@ sign01_predictionMCC_Mitchell: worst probesets:  no probeset found
+@ sign01_predictionMCC_Philipsen: worst probesets:  no probeset found
+@ sign01_predictionMCC_Rotunno: worst probesets:  no probeset found
+@ sign01_predictionMCC_Rousseaux: worst probesets:  no probeset found
+@ sign01_predictionMCC_Spira: worst probesets:  no probeset found
+@ sign01_predictionMCC_Tsay: worst probesets: [1] P10065_s_at; P11838_x_at; P08471_at;   P14734_at;   P22155_s_at; P04511_at;   P13439_x_at; P02688_at  
+@ sign01_predictionMCC_Wachi: worst probesets:  no probeset found
+@ sign01_predictionMCC_Want: worst probesets:  no probeset found
+@ sign01_predictionMCC_Xu: worst probesets: [1] P11838_x_at; P17989_at;   P07730_x_at; P04999_s_at; P14730_s_at P12976_at;   P18164_at  
+@ sign01_predictionMCC_ZhangL: worst probesets: [1] P11013_x_at; P10065_s_at
+
+
+
+ signature:sign02
+@ sign02_predictionMCC_Heiskanen: worst probesets:  no probeset found
+@ sign02_predictionMCC_Kohno: worst probesets: [1] P15504_x_at
+@ sign02_predictionMCC_Kuner: worst probesets:  [1] P00785_s_at; P05234_at;   P09962_at;   P12702_s_at; P13228_at  
+ [6] P15063_x_at; P15504_x_at; P17724_at;   P19410_at;   P4206_at   
+@ sign02_predictionMCC_Kuo: worst probesets: [1] P00984_s_at; P06807_s_at; P06866_at;   P09720_s_at; P14121_x_at
+[6] P14261_s_at; P17724_at;   P18164_at;   P20389_at  
+@ sign02_predictionMCC_Mitchell: worst probesets:  no probeset found
+@ sign02_predictionMCC_Philipsen: worst probesets:  no probeset found
+@ sign02_predictionMCC_Rotunno: worst probesets:  no probeset found
+@ sign02_predictionMCC_Rousseaux: worst probesets:  no probeset found
+@ sign02_predictionMCC_Spira: worst probesets:  no probeset found
+@ sign02_predictionMCC_Tsay: worst probesets: [1] P19410_at
+@ sign02_predictionMCC_Wachi: worst probesets: [1] P09720_s_at; P12702_s_at
+@ sign02_predictionMCC_Want: worst probesets: [1] P00785_s_at; P01798_s_at; P05560_at;   P09720_s_at; P14121_x_at
+[6] P19410_at  
+@ sign02_predictionMCC_Xu: worst probesets: [1] P09720_s_at; P14261_s_at
+@ sign02_predictionMCC_ZhangL: worst probesets: [1] P06807_s_at; P07820_at;   P18164_at  
+
+
+
+ signature:sign03
+@ sign03_predictionMCC_Heiskanen: worst probesets: [1] P02418_at
+@ sign03_predictionMCC_Kohno: worst probesets: [1] P08892_s_at
+@ sign03_predictionMCC_Kuner: worst probesets: [1] P02418_at;   P08471_at;   P08892_s_at; P12958_x_at; P14734_at  
+[6] P21668_s_at
+@ sign03_predictionMCC_Kuo: worst probesets: [1] P04999_s_at; P08471_at;   P11838_x_at; P15066_at;   P17724_at  
+@ sign03_predictionMCC_Mitchell: worst probesets:  no probeset found
+@ sign03_predictionMCC_Philipsen: worst probesets:  no probeset found
+@ sign03_predictionMCC_Rotunno: worst probesets: [1] P15407_s_at
+@ sign03_predictionMCC_Rousseaux: worst probesets:  no probeset found
+@ sign03_predictionMCC_Spira: worst probesets:  no probeset found
+@ sign03_predictionMCC_Tsay: worst probesets: [1] P13778_x_at
+@ sign03_predictionMCC_Wachi: worst probesets:  no probeset found
+@ sign03_predictionMCC_Want: worst probesets: [1] P01798_s_at; P08082_x_at; P19235_s_at
+@ sign03_predictionMCC_Xu: worst probesets: [1] P03413_at;   P08082_x_at; P12702_s_at; P13439_x_at; P19235_s_at
+[6] P22168_at  
+@ sign03_predictionMCC_ZhangL: worst probesets: [1] P01481_s_at; P15066_at;   P15845_x_at; P17724_at  
+
+
+
+ signature:sign04
+@ sign04_predictionMCC_Heiskanen: worst probesets:  no probeset found
+@ sign04_predictionMCC_Kohno: worst probesets: [1] P02522_at
+@ sign04_predictionMCC_Kuner: worst probesets: [1] P07078_at;   P09720_s_at
+@ sign04_predictionMCC_Kuo: worst probesets: [1] P03413_at;   P07078_at;   P14261_s_at; P17263_x_at; P18741_at  
+[6] P22212_s_at
+@ sign04_predictionMCC_Mitchell: worst probesets:  no probeset found
+@ sign04_predictionMCC_Philipsen: worst probesets:  no probeset found
+@ sign04_predictionMCC_Rotunno: worst probesets: [1] P09720_s_at
+@ sign04_predictionMCC_Rousseaux: worst probesets: [1] P14261_s_at
+@ sign04_predictionMCC_Spira: worst probesets:  no probeset found
+@ sign04_predictionMCC_Tsay: worst probesets:  [1] P01729_s_at; P02935_s_at; P07078_at;   P13243_at;   P16625_at  
+ [6] P17263_x_at; P17296_at;   P17933_s_at; P17989_at;   P20389_at  
+[11] P22212_s_at
+@ sign04_predictionMCC_Wachi: worst probesets: [1] P03413_at;   P09720_s_at; P09962_at  
+@ sign04_predictionMCC_Want: worst probesets: [1] P00785_s_at; P01738_at;   P02522_at;   P02784_s_at; P03413_at  
+[6] P14261_s_at
+@ sign04_predictionMCC_Xu: worst probesets:  no probeset found
+@ sign04_predictionMCC_ZhangL: worst probesets:  [1] P00097_s_at; P00785_s_at; P01481_s_at; P01738_at;   P02784_s_at
+ [6] P02935_s_at; P05036_at;   P14261_s_at; P16625_at;   P17933_s_at
+[11] P18741_at  
+
+
+
+ signature:sign05
+@ sign05_predictionMCC_Heiskanen: worst probesets:  no probeset found
+@ sign05_predictionMCC_Kohno: worst probesets:  no probeset found
+@ sign05_predictionMCC_Kuner: worst probesets: [1] P00785_s_at; P02085_at;   P02170_s_at; P02922_at;   P11741_x_at
+[6] P14730_s_at; P15066_at;   P22086_s_at; P22168_at  
+@ sign05_predictionMCC_Kuo: worst probesets: [1] P12110_at
+@ sign05_predictionMCC_Mitchell: worst probesets:  no probeset found
+@ sign05_predictionMCC_Philipsen: worst probesets: [1] P12110_at
+@ sign05_predictionMCC_Rotunno: worst probesets: [1] P14730_s_at
+@ sign05_predictionMCC_Rousseaux: worst probesets:  no probeset found
+@ sign05_predictionMCC_Spira: worst probesets:  no probeset found
+@ sign05_predictionMCC_Tsay: worst probesets: [1] P02085_at;   P14261_s_at; P14730_s_at
+@ sign05_predictionMCC_Wachi: worst probesets:  no probeset found
+@ sign05_predictionMCC_Want: worst probesets: [1] P02085_at;   P02922_at;   P08664_s_at; P21610_s_at
+@ sign05_predictionMCC_Xu: worst probesets: [1] P01926_s_at; P15066_at  
+@ sign05_predictionMCC_ZhangL: worst probesets: [1] P01926_s_at; P02085_at;   P04511_at;   P08892_s_at; P12110_at  
+[6] P18380_at;   P22086_s_at
+
+
+
+ signature:sign06
+@ sign06_predictionMCC_Heiskanen: worst probesets:  no probeset found
+@ sign06_predictionMCC_Kohno: worst probesets:  no probeset found
+@ sign06_predictionMCC_Kuner: worst probesets: [1] P03413_at;   P04511_at;   P10705_s_at; P11838_x_at; P13243_at  
+[6] P17989_at;   P20389_at  
+@ sign06_predictionMCC_Kuo: worst probesets: [1] P06385_s_at; P14182_at;   P18164_at;   P20575_at  
+@ sign06_predictionMCC_Mitchell: worst probesets: [1] P20575_at
+@ sign06_predictionMCC_Philipsen: worst probesets:  no probeset found
+@ sign06_predictionMCC_Rotunno: worst probesets:  no probeset found
+@ sign06_predictionMCC_Rousseaux: worst probesets:  no probeset found
+@ sign06_predictionMCC_Spira: worst probesets:  no probeset found
+@ sign06_predictionMCC_Tsay: worst probesets: [1] P00785_s_at; P11838_x_at; P13243_at;   P13778_x_at; P18164_at  
+[6] P18741_at;   P19233_s_at; P20389_at  
+@ sign06_predictionMCC_Wachi: worst probesets: [1] P03413_at
+@ sign06_predictionMCC_Want: worst probesets: [1] P02286_s_at; P03013_at;   P05211_s_at; P17715_x_at; P20575_at  
+@ sign06_predictionMCC_Xu: worst probesets: [1] P03013_at;   P03413_at;   P05211_s_at; P06542_s_at; P18164_at  
+[6] P20389_at  
+@ sign06_predictionMCC_ZhangL: worst probesets: [1] P02286_s_at; P04511_at  
